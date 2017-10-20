@@ -1,4 +1,7 @@
 Slap Jack
+-deck of 52 cards  /* details!!!!! */
+-deck includes to jokers for the total of 52 cards
+
 Shuffle a deck of 52 standard cards
 have everyone sit around the table
 max of 8 people
@@ -9,9 +12,10 @@ players keep the cards face down
 players keep their cards in a stack
 when out of cards to deal pick a player to start 
 player puts a card from the top of their stack in the middle face up
-if a jack card is played face up
+
+if: a jack card is played face up:
 	 slap the jack
-if your the first to slap the jack
+if: your the first to slap the jack:
 	 you get the stack of cards under the jack
 	 that player adds those cards to their stack face down
 	 they put those cards on the bottom of their stack
