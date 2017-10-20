@@ -1,0 +1,33 @@
+Slap Jack
+Shuffle a deck of 52 standard cards
+have everyone sit around the table
+max of 8 people
+minimum of 2
+deal the cards clockwise between all the players
+deal the one at time
+players keep the cards face down
+players keep their cards in a stack
+when out of cards to deal pick a player to start 
+player puts a card from the top of their stack in the middle face up
+if a jack card is played face up
+	 slap the jack
+if your the first to slap the jack
+	 you get the stack of cards under the jack
+	 that player adds those cards to their stack face down
+	 they put those cards on the bottom of their stack
+else you get nothing
+if a card other than jack is played
+	 the next player(counter clockwise) plays a card
+if someone slaps and it is not a jack
+	 the player gives the the top card of their stack to the player who placed the slaped card
+	 that player adds the card to the bottom of their deck
+if a player runs out of cards 
+	they are out
+	they are unable to play cards
+	t
+if a player is out 	
+	they may slap back in by slaping when a jack appears
+if a player slaps back in
+	 they play with whatever cards they recieve from their slap
+if one person has all the cards they win
+keep playing until a player wins
