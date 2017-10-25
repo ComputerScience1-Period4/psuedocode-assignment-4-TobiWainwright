@@ -2,7 +2,7 @@ Slap Jack
 Shuffle a deck of 52 standard cards
 have everyone sit around the table
 max of 8 people
-minimum of 2
+minimum of 2 /* what */
 deal the cards clockwise between all the players
 deal the one at time
 players keep the cards face down
