@@ -24,7 +24,6 @@ if someone slaps and it is not a jack
 if a player runs out of cards 
 	they are out
 	they are unable to play cards
-	t
 if a player is out 	
 	they may slap back in by slaping when a jack appears
 if a player slaps back in
